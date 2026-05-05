@@ -2,8 +2,6 @@
 
 A simple **Amazon-inspired e-commerce frontend** built with **HTML, CSS and JavaScript**.
 
-The project includes product listing, cart functionality, and order flow simulation using local storage.
-
 ---
 
 ## 🎮 Live Demo
@@ -21,25 +19,6 @@ The project includes product listing, cart functionality, and order flow simulat
 
 ---
 
-## 📌 About The Project
-
-This project is a simplified **e-commerce application** inspired by Amazon.
-
-It demonstrates core frontend concepts such as dynamic rendering, state management using localStorage, and multi-page navigation.
-
----
-
-## ✨ Features
-
-- 🛍 Product listing with images, ratings and prices  
-- 🛒 Add to cart functionality  
-- ❌ Remove items from cart  
-- 💾 Cart persistence using localStorage  
-- 📦 Order summary page  
-- 🚚 Tracking page simulation  
-- 📱 Responsive layout  
-
----
 
 ## 🧩 Pages
 
