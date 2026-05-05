@@ -1,20 +1,67 @@
+# 🛒 Amazon Clone – E-commerce Frontend
 
-# Amazon Website Copy
-![ezgif com-video-to-gif](https://github.com/kaciakk/javascript-amazon-project-main/assets/95936444/b5da8da8-c25d-4521-949d-5305aae78a0d)
-## Overview
-This e-commerce website was developed as part of an online course available on YouTube. The course covered web development and e-commerce concepts, providing step-by-step guidance on creating this website. The course, hosted on YouTube, was a valuable resource for learning web development practices and creating a functional e-commerce platform.
+A simple **Amazon-inspired e-commerce frontend** built with **HTML, CSS and JavaScript**.
 
-The website was built to showcase various products, allow users to add them to a shopping cart, and manage their cart contents. It serves as an example project for applying the skills and knowledge gained during the course.
+The project includes product listing, cart functionality, and order flow simulation using local storage.
 
-[supersimple.dev](https://supersimple.dev/)
+---
 
-## Shopping Cart
-Users can view and interact with their shopping cart.
-They can add items to the cart.
-They can remove items from the cart.
-Cart contents are stored in the browser's local storage for persistence.
+## 🎮 Live Demo
 
-## Product Listing
-The website displays a list of products with images, names, ratings, and prices.
-Users can view product details.
-Product information is fetched from the products data.
+🔗 Live: https://amazon-website-copy-kaciak.netlify.app/
+
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="https://github.com/kaciakk/javascript-amazon-project-main/assets/95936444/b5da8da8-c25d-4521-949d-5305aae78a0d" width="800"/>
+</p>
+
+---
+
+## 📌 About The Project
+
+This project is a simplified **e-commerce application** inspired by Amazon.
+
+It demonstrates core frontend concepts such as dynamic rendering, state management using localStorage, and multi-page navigation.
+
+---
+
+## ✨ Features
+
+- 🛍 Product listing with images, ratings and prices  
+- 🛒 Add to cart functionality  
+- ❌ Remove items from cart  
+- 💾 Cart persistence using localStorage  
+- 📦 Order summary page  
+- 🚚 Tracking page simulation  
+- 📱 Responsive layout  
+
+---
+
+## 🧩 Pages
+
+- `index.html` – product listing  
+- `checkout.html` – shopping cart  
+- `orders.html` – order history  
+- `tracking.html` – delivery tracking  
+
+---
+
+## 🛠 Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+
+---
+
+## ⚙️ Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/kaciakk/javascript-amazon-project-main.git
+cd javascript-amazon-project-main
